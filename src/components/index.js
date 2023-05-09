@@ -1,0 +1,13 @@
+export { default as Hero } from './Hero.jsx';
+export { default as Who } from './Who.jsx';
+export { default as Works } from './Works.jsx';
+export { default as Contact } from './Contact.jsx';
+export { default as Navbar } from './Navbar.jsx';
+export { default as Map } from './Map.jsx';
+export { default as Cube } from './Cube.jsx';
+export { default as WebDesign } from './WebDesign.jsx';
+export { default as Development } from './Development.jsx';
+export { default as ProductDesign } from './ProductDesign.jsx';
+export { default as Atom } from './Atom.jsx';
+export { default as Mac } from './Mac.jsx';
+export { default as Shoe } from './Shoe.jsx';
